@@ -5,7 +5,7 @@
 </p>
 
 **Shristi Kushwaha** · Fullstack AI engineer
-Building production-minded RAG systems, and full-stack AI products.
+·Building production-minded RAG systems, agentic workflow and full-stack AI products.
 
 ## About
 
